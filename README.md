@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gorillatiger
-- 👀 I’m interested in Programming an Tech
-- 🌱 I’m currently learning C 
+- 👀 I’m interested in Programming and Tech
+- 🌱 I’m currently learning C and Phython
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
 
